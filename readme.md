@@ -114,8 +114,12 @@ functions:
 
 Para usar el dashboard de sls, se debe crear la aplicacion primero en el sitio serverless.com y agregar lo siguiente al inicio de serverless.yml:
 
-org: consorcio
+```
+org: setterlee
 app: example
+```
+
+donde la organizacion y el nombre de la app deben coincidir con los datos de la cuenta que se desea usar previamente creada la app dentro de serverless
 
 ---
  
